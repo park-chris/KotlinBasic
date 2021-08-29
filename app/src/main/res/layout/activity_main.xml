@@ -10,9 +10,15 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/logBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="로그 확인용 버튼" />
 
+    <Button
+        android:id="@+id/secondLogBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="두번째 로그 버튼" />
 
 </LinearLayout>
