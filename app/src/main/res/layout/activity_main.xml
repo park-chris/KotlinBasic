@@ -21,4 +21,10 @@
         android:layout_height="wrap_content"
         android:text="두번째 로그 버튼" />
 
+    <Button
+        android:id="@+id/toastBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="토스트 띄우기"/>
+
 </LinearLayout>
